@@ -105,7 +105,7 @@ Publish the website in the given URL.
         </div>
     <footer>
         <p>-----------------------------------------------------------------------------------------</p>
-        <p>&copy; 2024 Delicious Bites. All rights reserved.</p>
+        <p>&copy; 2025 Delicious Bites. All rights reserved.</p>
     </footer>
 </body>
 </html>
